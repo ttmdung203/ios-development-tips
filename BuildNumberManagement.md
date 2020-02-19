@@ -1,4 +1,13 @@
-# Run script to generate build number automatically:
+# Version & Build:
+
+### Version number & Build version:
+```
+Version: 1.0
+Build Version: 1.0.202002190539 // [version-number].yyyymmddHHMM
+```
+
+
+### RunScript to generate build version:
 
 ```
 #!/bin/bash
